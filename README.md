@@ -55,9 +55,7 @@ Before running, open the script and replace the placeholder UUID in the **Hits F
 
 ## Notes
 
-- Config is saved to the `Sahur` folder under the filename `Tuff Hub`
-- No key system is currently active
-- Discord integration is disabled by default
+-Full Automation soon
 
 ---
 
