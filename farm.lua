@@ -56,7 +56,7 @@ local Button = Tab:CreateButton({
    Callback = function()
         while true do
         local args = {
-            "546b85df-fe79-4920-9752-0b33bc0b2caf", --replace with ur own id until we make an id system
+            "588e7f40-b1f2-49db-9ffb-6cb20cd094fc", --replace with ur own id until we make an id system
             true,
             "Pistol"
         }
