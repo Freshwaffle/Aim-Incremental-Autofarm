@@ -22,7 +22,6 @@ Paste the following loadstring into your executor:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Freshwaffle/Aim-Incremental-Autofarm/refs/heads/main/farm.lua"))()
 ```
 
-> Replace `YOUR_RAW_SCRIPT_URL` with the raw URL to this script on GitHub.
 
 ---
 
